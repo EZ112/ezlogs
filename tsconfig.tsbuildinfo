@@ -1,0 +1,1 @@
+{"root":["./.astro/types.d.ts","./astro.config.mjs","./eslint.config.js","./tailwind.config.mjs","./src/components/Header.tsx","./src/components/Link.tsx"],"version":"5.7.2"}
